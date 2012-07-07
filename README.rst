@@ -4,6 +4,9 @@
 
 Realtime JavaScript Abstract Syntax Tree Visualisation
 
+.. demo
+
+
 TODO
 ====
 
@@ -16,8 +19,7 @@ TODO
 Thanks
 ======
 
-Derived from jsast by Howard Yeend
-See original project: https://github.com/user24/jsast
+Derived from jsast by Howard Yeend. See original project: https://github.com/user24/jsast
 and its ive demo: http://www.puremango.co.uk/jsast/
 (not necessarily latest version)
 
